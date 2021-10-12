@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "PylonSample_VisualGDB_CrossCompile", "PylonSample_VisualGDB_CrossCompile.vgdbcmake", "{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{1A4ECE62-250F-427D-AA8D-FE450E2BCF84}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

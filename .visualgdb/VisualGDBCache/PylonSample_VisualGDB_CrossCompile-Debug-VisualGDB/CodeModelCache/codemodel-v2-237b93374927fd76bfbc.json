@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "DEBUG",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PylonSample_VisualGDB_CrossCompile",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PylonSample_VisualGDB_CrossCompile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PylonSample_VisualGDB_CrossCompile-DEBUG-27c42be672079c83df2c.json",
+					"name" : "PylonSample_VisualGDB_CrossCompile",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mbreit/Projects/PylonSample_VisualGDB_CrossCompile/build/VisualGDB/Debug",
+		"source" : "C:/Users/mbreit/Projects/PylonSample_VisualGDB_CrossCompile"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
